@@ -1,87 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Stable",Dubai zaman
+#EXTINF:-1,Dubai zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="Stable",Aloula tv
+#EXTINF:-1,Aloula tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",aayoune tv
+#EXTINF:-1,aayoune tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",arriadia tv3
+#EXTINF:-1,arriadia tv3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",Al Manar
+#EXTINF:-1,Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 group-title="Stable",DW Arabic (Germany)
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 group-title="Stable",BBC arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 group-title="Stable",TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 group-title="Stable",Lebanon: Future tv
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1 group-title="Stable",Dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Stable",Sama dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Stable",Dubai tv
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Stable",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 group-title="Stable",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 group-title="Stable",Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1 group-title="Stable",National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title="Stable",Aljazeera doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="Stable",Spacetoon sd
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w1099963263_b596000_slAR.m3u8
-#EXTINF:-1 group-title="Stable",France 24 ar
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Stable",ABC
-https://toru.la/api/1/sling/m3u/cgzna9uh/001?token=LpdbS7ADHJhgG
-#EXTINF:-1 group-title="Stable",pluto
-https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1 group-title="Stable",Al rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Makan 33
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Jordan tv
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Stable",Alrai tv
-https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV arabe
-https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV ethraa
-https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV Sport
-https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Kuwait Kids
-https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Otv
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV
-http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Cultural
-http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Mubashir
-http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Sport
-http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Aljazeera Channel
-https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index255.m3u8
-#EXTINF:-1 group-title="Stable",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Roya tv
-https://roya-live.ercdn.net/roya/roya_720p.m3u8
-#EXTINF:-1 group-title="Stable",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
