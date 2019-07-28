@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,---------------------------TV CHANNELS------------------------------------------------------------------------
-http://dmiffthvll.ytc.com
 #EXTINF:-1 group-title="Stable",Dubai zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Stable",Aloula tv
