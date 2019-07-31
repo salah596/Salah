@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1,---------------------------TV CHANNELS------------------------------------------------------------------------
 http://dmiffthvll.ytc.com
-#EXTINF:-1 group-title="Stable",Dubai zaman
+#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaizaman171.png",Dubai zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="Stable",Aloula tv
+#EXTINF:-1 tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png",Aloula tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",aayoune tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png",aayoune tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",arriadia tv3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/946391558051463168/1U6F7yRq_400x400.jpg",arriadia tv3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 group-title="Stable",Al Manar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/New_Al-Manar_logo.PNG/200px-New_Al-Manar_logo.PNG",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 group-title="Stable",DW Arabic (Germany)
+#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",DW Arabic (Germany)
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 group-title="Stable",BBC arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
