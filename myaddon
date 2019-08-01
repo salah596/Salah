@@ -1,0 +1,4 @@
+<dir>
+<title>Trending TV Shows</title>
+<trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
