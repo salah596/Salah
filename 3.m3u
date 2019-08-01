@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo="",--------------------Shades of blue ----------------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/files/images/2018/5/11/NBCDigital-Platform-Assets-ShadesOfBlue-S3-KeyArt-Logo-Show-Tile-1920x1080.jpg",--------------------Shades of blue ----------------------------------------------------------------------
 http;//yoyo
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNDU3NDIwNF5BMl5BanBnXkFtZTgwMTE5NDMyNzE@._V1_.jpg",S01E01 Pilot
 http://103.205.233.70/Data/Disk7/TV%20Series/English%20TV%20Shows/Shades%20of%20Blue/Season%201/S01E01%20-%20Series%20Premiere.mp4
