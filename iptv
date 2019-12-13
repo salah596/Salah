@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MYHD PREMIUM - MY MBC1 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC1.png" group-title="AR | MYHD PREMIUM",MBC1 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46775.ts
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MYHD PREMIUM - MY MBC2 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC2%20.png" group-title="AR | MYHD PREMIUM",MBC2 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46774.ts
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MYHD PREMIUM - MY MBC3 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC3.png" group-title="AR | MYHD PREMIUM",MBC3 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46773.ts
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MYHD PREMIUM - MY MBC4 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC4%20.png" group-title="AR | MYHD PREMIUM",MBC4 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46772.ts
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MYHD PREMIUM - MY MBC ACTION  HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MY%20MBC%20ACTION%20.png" group-title="AR | MYHD PREMIUM",MBC ACTION HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46780.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MYHD PREMIUM - MY MBC BOLLYWOOD HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MBC%20Bollywood.png" group-title="AR | MYHD PREMIUM",MBC BOLLYWOOD HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46779.ts
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MYHD PREMIUM - MY MBC DRAMA HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC%20DRAMA%20.png" group-title="AR | MYHD PREMIUM",MBC DRAMA HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46778.ts
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MYHD PREMIUM - MY MBC MAX HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC%20MAX%20.png" group-title="AR | MYHD PREMIUM",MBC MAX HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46777.ts
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MYHD PREMIUM - MY MBC DRAMA PLUS HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MBCPLUS.png" group-title="AR | MYHD PREMIUM",MBC DRAMA PLUS HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/46776.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/941.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABIYA
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABIYA AL HADATH
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/930.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABY HD" tvg-logo="http://212.8.253.112/logo/ARABE/ALARABYHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABY HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/937.ts
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/BBCARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",BBC ARABIC
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/929.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/FRANCE24.png" group-title="AR | ARABIC NEWS & FACTUAL",FRANCE 24
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/922.ts
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA ENGLISH
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/919.ts
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA ENGLISH HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/940.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA DOCUMENTARY
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/920.ts
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="AL JAZEERA DOCUMENTARY HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA DOCUMENTARY HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/939.ts
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="AL JAZEERA MUBASHER" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAMUBASHER.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA MUBASHER
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/935.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/DWARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",DW ARABIC
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17707.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/TRTARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",TRT ARABIC
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17706.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL HURRA" tvg-logo="http://212.8.253.112/logo/ARABE/ALHURRA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL HURRA
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/924.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="http://212.8.253.112/logo/ARABE/BBCWORLDNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",BBC WORLD NEWS
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/923.ts
