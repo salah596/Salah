@@ -47,3 +47,19 @@ http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17706.ts
 http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/924.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="http://212.8.253.112/logo/ARABE/BBCWORLDNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",BBC WORLD NEWS
 http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/923.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1 HD" tvg-logo="http://212.8.253.112/logo/UK/BBC1.png" group-title="EU | UK",UK - BBC 1 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17402.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC 2" tvg-logo="http://212.8.253.112/logo/UK/BBC2.png" group-title="EU | UK",UK - BBC 2
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/27592.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 3 HD" tvg-logo="http://212.8.253.112/logo/UK/BBC3.png" group-title="EU | UK",UK - BBC 3 HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17705.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK - BBC 4 HD / CBEEBIES HD" tvg-logo="http://212.8.253.112/logo/UK/BBC4.png" group-title="EU | UK",UK - BBC 4 HD / CBEEBIES HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17401.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC CBBC HD" tvg-logo="http://212.8.253.112/logo/UK/BBCCBBC.png" group-title="EU | UK",UK - BBC CBBC HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17399.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS HD" tvg-logo="http://212.8.253.112/logo/UK/BBCNEWS.png" group-title="EU | UK",UK - BBC NEWS HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17400.ts
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK - BBC ONE SCOTTLAND HD" tvg-logo="http://212.8.253.112/logo/UK/BBCONESCOTTLAND.png" group-title="EU | UK",UK - BBC ONE SCOTTLAND HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17404.ts
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK - BBC ONE WALES HD" tvg-logo="http://212.8.253.112/logo/UK/BBCONEWALES.png" group-title="EU | UK",UK - BBC ONE WALES HD
+http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17403.ts
