@@ -63,3 +63,175 @@ http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17400.ts
 http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17404.ts
 #EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK - BBC ONE WALES HD" tvg-logo="http://212.8.253.112/logo/UK/BBCONEWALES.png" group-title="EU | UK",UK - BBC ONE WALES HD
 http://tektv.co:80/live/osZZzpelyvmvqyi/Y5l3rlXIFC/17403.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (West) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71854
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (East) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71855
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (East) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71882
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US - HBO 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO 2 | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71881
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US - HBO COMEDY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO COMEDY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71866
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US - HBO SIGNATURE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO SIGNATURE | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71865
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US - HBO FAMILY (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO FAMILY (East) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71880
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (East) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71853
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (East) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71891
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (West) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71852
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (West) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (West) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71892
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="US - SHOWTIME 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME2.png" group-title="AM | USA | PREMIUM",US - SHOWTIME 2 | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71893
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US - SHOWTIME NEXT | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME NEXT | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71898
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME BEYOND | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME BEYOND | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71412
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="US - SHOWTIME SHOWCASE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME SHOWCASE | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71894
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="US - SHOWTIME FAMILY ZONE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME FAMILY ZONE | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71896
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="US - SHOWTIME EXTREME | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME EXTREME | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71895
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="US - SHOWTIME WOMEN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME WOMEN | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71897
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US - STARZ (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ (East) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71862
+#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="US - STARZ WEST | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ WEST | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71873
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US - STARZ (West) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ (West) | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71890
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US - STARZ EDGE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ EDGE | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71888
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US - STARZ CINEMA | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ CINEMA | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71864
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US - STARZ COMEDY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ COMEDY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71887
+#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="US - STARZ KIDS AND FAMILY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ KIDS AND FAMILY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71877
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US - STARZ IN BLACK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ IN BLACK | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71889
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US - STARZ ENCORE | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71870
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US - STARZ ENCORE ACTION | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE ACTION | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71899
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US - STARZ ENCORE FAMILY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE FAMILY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71878
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US - STARZ ENCORE WEST | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE WEST | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71872
+#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="US - STARZ ENCORE CLASSIC | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE CLASSIC | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71874
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US - STARZ ENCORE BLACK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE BLACK | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71875
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US - STARZ ENCORE WESTERNS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE WESTERNS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71876
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US - STARZ ENCORE SUSPENSE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE SUSPENSE | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71879
+#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="US - CINEMAX EAST" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX EAST
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71904
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX (East) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71859
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX (West) | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71860
+#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX ACTION MAX EAST" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAXACTIONMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX ACTION MAX EAST
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71905
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US - CINEMAX ACTIONMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAXACTIONMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX ACTIONMAX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71867
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US - CINEMAX 5 STARMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX 5 STARMAX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71868
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US - CINEMAX MOVIEMAX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX MOVIEMAX
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71903
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX MOVIEMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX MOVIEMAX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71381
+#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX OUTER MAX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX OUTER MAX
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71902
+#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAXX MORE MAXX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAXX MORE MAXX
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71900
+#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX THRILLERMAX HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX THRILLERMAX HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71901
+#EXTINF:-1 tvg-id="EPIX.us" tvg-name="US - EPIX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIX.png" group-title="AM | USA | PREMIUM",US - EPIX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71857
+#EXTINF:-1 tvg-id="EPIX2.us" tvg-name="US - EPIX 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIX2.png" group-title="AM | USA | PREMIUM",US - EPIX 2 | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71858
+#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="US - EPIX HITS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIXHITS.png" group-title="AM | USA | PREMIUM",US - EPIX HITS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71863
+#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="US - RETRO PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/RETROPLEX.png" group-title="AM | USA | PREMIUM",US - RETRO PLEX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71886
+#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="US - MOVIE PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/MOVIEPLEX.png" group-title="AM | USA | PREMIUM",US - MOVIE PLEX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71884
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="US - INDIE PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/INDIEPLEX.png" group-title="AM | USA | PREMIUM",US - INDIE PLEX | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71885
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="US - CINE SONY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SONYMOVIESHD.png" group-title="AM | USA | PREMIUM",US - CINE SONY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71861
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="US - TURNER CLASSIC MOVIES" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/TURNERCLASSICMOVIES.png" group-title="AM | USA | PREMIUM",US - TURNER CLASSIC MOVIES
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71869
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.us" tvg-name="US - SONY MOVIES | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SONYMOVIESHD.png" group-title="AM | USA | PREMIUM",US - SONY MOVIES | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71871
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="US - HDnet Movies | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HDnetMovies.png" group-title="AM | USA | PREMIUM",US - HDnet Movies | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71883
+#EXTINF:-1 tvg-id="" tvg-name="##### US - NEWS #####" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/USA.png" group-title="AM | USA | LOCALS & NEWS",##### US - NEWS #####
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/34835
+#EXTINF:-1 tvg-id="" tvg-name="US - THE WEATHER CHANNEL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/THEWEATHERCHANNEL.png" group-title="AM | USA | LOCALS & NEWS",US - THE WEATHER CHANNEL | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71504
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="US - ACCU WEATHER | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ACCUWEATHER.png" group-title="AM | USA | LOCALS & NEWS",US - ACCU WEATHER | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71503
+#EXTINF:-1 tvg-id="" tvg-name="US - WEATHER NATION | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/WEATHERNATION.png" group-title="AM | USA | LOCALS & NEWS",US - WEATHER NATION | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71489
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="US - HLN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HLN.png" group-title="AM | USA | LOCALS & NEWS",US - HLN | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71367
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/72329
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71493
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | UHD+" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | UHD+
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/76564
+#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="US - CNN INTERNATIONAL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN INTERNATIONAL | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71486
+#EXTINF:-1 tvg-id="" tvg-name="US - CBS NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CBS.png" group-title="AM | USA | LOCALS & NEWS",US - CBS NEWS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71500
+#EXTINF:-1 tvg-id="" tvg-name="US - ABC NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ABC.png" group-title="AM | USA | LOCALS & NEWS",US - ABC NEWS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71675
+#EXTINF:-1 tvg-id="abc.eastern.us" tvg-name="US - ABC NEWS LIVE EAST | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ABC.png" group-title="AM | USA | LOCALS & NEWS",US - ABC NEWS LIVE EAST | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71496
+#EXTINF:-1 tvg-id="" tvg-name="US - FOX NEWS CHANNEL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FOX.png" group-title="AM | USA | LOCALS & NEWS",US - FOX NEWS CHANNEL | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71487
+#EXTINF:-1 tvg-id="" tvg-name="US - NEWSY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/NEWSY.png" group-title="AM | USA | LOCALS & NEWS",US - NEWSY | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71488
+#EXTINF:-1 tvg-id="FreeSpeech.us" tvg-name="US - FREE SPEECH TV | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FREESPEECHTV.png" group-title="AM | USA | LOCALS & NEWS",US - FREE SPEECH TV | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71386
+#EXTINF:-1 tvg-id="cheddaru.us" tvg-name="US - CHEDDAR NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CHEDDAR.png" group-title="AM | USA | LOCALS & NEWS",US - CHEDDAR NEWS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71490
+#EXTINF:-1 tvg-id="" tvg-name="US - NE CABLE NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/NECN.png" group-title="AM | USA | LOCALS & NEWS",US - NE CABLE NEWS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71501
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="US - ONE AMERICA NEWS NETWORK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ONE-AMERICA-NEWS-NETWORK.png" group-title="AM | USA | LOCALS & NEWS",US - ONE AMERICA NEWS NETWORK | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71483
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US - BBC AMERICA | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/BBC.png" group-title="AM | USA | LOCALS & NEWS",US - BBC AMERICA | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71509
+#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="US - BBC WORLD NEWS | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BBC-World-News.png" group-title="AM | USA | LOCALS & NEWS",US - BBC WORLD NEWS | UHD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71484
+#EXTINF:-1 tvg-id="" tvg-name="US - RT NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/RTNEWS.png" group-title="AM | USA | LOCALS & NEWS",US - RT NEWS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71502
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US - CNBC | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/CNBC-2.png" group-title="AM | USA | LOCALS & NEWS",US - CNBC | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71485
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US - MSNBC | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/MSNBC.png" group-title="AM | USA | LOCALS & NEWS",US - MSNBC | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71491
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US - CNBC WORLD | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNBCWORLD.png" group-title="AM | USA | LOCALS & NEWS",US - CNBC WORLD | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71492
+#EXTINF:-1 tvg-id="" tvg-name="US - FOX BUSINESS NETWORK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FOX.png" group-title="AM | USA | LOCALS & NEWS",US - FOX BUSINESS NETWORK | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71494
+#EXTINF:-1 tvg-id="" tvg-name="US - BLOOMBERG POLITICS LIVE EVENT | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/bloomberg-television.png" group-title="AM | USA | LOCALS & NEWS",US - BLOOMBERG POLITICS LIVE EVENT | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71497
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US - BLOOMBERG | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/bloomberg-television.png" group-title="AM | USA | LOCALS & NEWS",US - BLOOMBERG | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71498
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US - CHEDDAR BUSINESS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CHEDDAR.png" group-title="AM | USA | LOCALS & NEWS",US - CHEDDAR BUSINESS | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71499
+#EXTINF:-1 tvg-id="c.span.us" tvg-name="US - C-SPAN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71506
+#EXTINF:-1 tvg-id="" tvg-name="US - C-SPAN 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN 2 | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71507
+#EXTINF:-1 tvg-id="c.span.3.us" tvg-name="US - C-SPAN 3 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN 3 | HD
+http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71508
