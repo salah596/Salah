@@ -1,237 +1,309 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MYHD PREMIUM - MY MBC1 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC1.png" group-title="AR | MYHD PREMIUM",MBC1 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46775.ts
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MYHD PREMIUM - MY MBC2 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC2%20.png" group-title="AR | MYHD PREMIUM",MBC2 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46774.ts
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MYHD PREMIUM - MY MBC3 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC3.png" group-title="AR | MYHD PREMIUM",MBC3 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46773.ts
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MYHD PREMIUM - MY MBC4 HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC4%20.png" group-title="AR | MYHD PREMIUM",MBC4 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46772.ts
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MYHD PREMIUM - MY MBC ACTION  HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MY%20MBC%20ACTION%20.png" group-title="AR | MYHD PREMIUM",MBC ACTION HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46780.ts
-#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MYHD PREMIUM - MY MBC BOLLYWOOD HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MBC%20Bollywood.png" group-title="AR | MYHD PREMIUM",MBC BOLLYWOOD HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46779.ts
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MYHD PREMIUM - MY MBC DRAMA HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC%20DRAMA%20.png" group-title="AR | MYHD PREMIUM",MBC DRAMA HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46778.ts
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MYHD PREMIUM - MY MBC MAX HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20MY%20MBC%20MAX%20.png" group-title="AR | MYHD PREMIUM",MBC MAX HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46777.ts
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MYHD PREMIUM - MY MBC DRAMA PLUS HEVC" tvg-logo="http://212.8.253.112/logo/MY%20HD/MBCPLUS.png" group-title="AR | MYHD PREMIUM",MBC DRAMA PLUS HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/46776.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/941.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABIYA
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/931.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABIYA AL HADATH
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/930.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABY HD" tvg-logo="http://212.8.253.112/logo/ARABE/ALARABYHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL ARABY HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/937.ts
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/BBCARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",BBC ARABIC
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/929.ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/FRANCE24.png" group-title="AR | ARABIC NEWS & FACTUAL",FRANCE 24
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/922.ts
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA ENGLISH
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/919.ts
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA ENGLISH HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/940.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA DOCUMENTARY
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/920.ts
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="AL JAZEERA DOCUMENTARY HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA DOCUMENTARY HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/939.ts
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="AL JAZEERA MUBASHER" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAMUBASHER.png" group-title="AR | ARABIC NEWS & FACTUAL",AL JAZEERA MUBASHER
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/935.ts
-#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/DWARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",DW ARABIC
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17707.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/TRTARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",TRT ARABIC
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17706.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL HURRA" tvg-logo="http://212.8.253.112/logo/ARABE/ALHURRA.png" group-title="AR | ARABIC NEWS & FACTUAL",AL HURRA
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/924.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="http://212.8.253.112/logo/ARABE/BBCWORLDNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",BBC WORLD NEWS
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/923.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1 HD" tvg-logo="http://212.8.253.112/logo/UK/BBC1.png" group-title="EU | UK",UK - BBC 1 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17402.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BBC 2" tvg-logo="http://212.8.253.112/logo/UK/BBC2.png" group-title="EU | UK",UK - BBC 2
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/27592.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 3 HD" tvg-logo="http://212.8.253.112/logo/UK/BBC3.png" group-title="EU | UK",UK - BBC 3 HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17705.ts
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK - BBC 4 HD / CBEEBIES HD" tvg-logo="http://212.8.253.112/logo/UK/BBC4.png" group-title="EU | UK",UK - BBC 4 HD / CBEEBIES HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17401.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BBC CBBC HD" tvg-logo="http://212.8.253.112/logo/UK/BBCCBBC.png" group-title="EU | UK",UK - BBC CBBC HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17399.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS HD" tvg-logo="http://212.8.253.112/logo/UK/BBCNEWS.png" group-title="EU | UK",UK - BBC NEWS HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17400.ts
-#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK - BBC ONE SCOTTLAND HD" tvg-logo="http://212.8.253.112/logo/UK/BBCONESCOTTLAND.png" group-title="EU | UK",UK - BBC ONE SCOTTLAND HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17404.ts
-#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK - BBC ONE WALES HD" tvg-logo="http://212.8.253.112/logo/UK/BBCONEWALES.png" group-title="EU | UK",UK - BBC ONE WALES HD
-http://tektv.co:80/live/osZZzpelyvmvqyi/h2ExKrrn1b/17403.ts
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (West) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71854
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (East) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71855
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="US - HBO (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO (East) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71882
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US - HBO 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO 2 | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71881
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US - HBO COMEDY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO COMEDY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71866
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US - HBO SIGNATURE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO SIGNATURE | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71865
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US - HBO FAMILY (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO FAMILY (East) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71880
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (East) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71853
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (East) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71891
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (West) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71852
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME (West) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME (West) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71892
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="US - SHOWTIME 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME2.png" group-title="AM | USA | PREMIUM",US - SHOWTIME 2 | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71893
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US - SHOWTIME NEXT | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME NEXT | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71898
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US - SHOWTIME BEYOND | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME BEYOND | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71412
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="US - SHOWTIME SHOWCASE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME SHOWCASE | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71894
-#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="US - SHOWTIME FAMILY ZONE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME FAMILY ZONE | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71896
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="US - SHOWTIME EXTREME | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME EXTREME | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71895
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="US - SHOWTIME WOMEN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SHOWTIME.png" group-title="AM | USA | PREMIUM",US - SHOWTIME WOMEN | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71897
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="US - STARZ (East) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ (East) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71862
-#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="US - STARZ WEST | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ WEST | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71873
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="US - STARZ (West) | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ (West) | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71890
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US - STARZ EDGE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ EDGE | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71888
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US - STARZ CINEMA | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ CINEMA | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71864
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US - STARZ COMEDY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ COMEDY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71887
-#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="US - STARZ KIDS AND FAMILY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ KIDS AND FAMILY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71877
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US - STARZ IN BLACK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ IN BLACK | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71889
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US - STARZ ENCORE | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71870
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US - STARZ ENCORE ACTION | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE ACTION | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71899
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US - STARZ ENCORE FAMILY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE FAMILY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71878
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US - STARZ ENCORE WEST | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE WEST | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71872
-#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="US - STARZ ENCORE CLASSIC | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE CLASSIC | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71874
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US - STARZ ENCORE BLACK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE BLACK | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71875
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US - STARZ ENCORE WESTERNS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE WESTERNS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71876
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US - STARZ ENCORE SUSPENSE | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/STARZ.png" group-title="AM | USA | PREMIUM",US - STARZ ENCORE SUSPENSE | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71879
-#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="US - CINEMAX EAST" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX EAST
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71904
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX (East) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX (East) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71859
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX (West) | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX (West) | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71860
-#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX ACTION MAX EAST" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAXACTIONMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX ACTION MAX EAST
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71905
-#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US - CINEMAX ACTIONMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAXACTIONMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX ACTIONMAX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71867
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US - CINEMAX 5 STARMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX 5 STARMAX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71868
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US - CINEMAX MOVIEMAX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX MOVIEMAX
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71903
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US - CINEMAX MOVIEMAX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX MOVIEMAX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71381
-#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX OUTER MAX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX OUTER MAX
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71902
-#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAXX MORE MAXX" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAXX MORE MAXX
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71900
-#EXTINF:-1 tvg-id="" tvg-name="US - CINEMAX THRILLERMAX HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CINEMAX.png" group-title="AM | USA | PREMIUM",US - CINEMAX THRILLERMAX HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71901
-#EXTINF:-1 tvg-id="EPIX.us" tvg-name="US - EPIX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIX.png" group-title="AM | USA | PREMIUM",US - EPIX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71857
-#EXTINF:-1 tvg-id="EPIX2.us" tvg-name="US - EPIX 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIX2.png" group-title="AM | USA | PREMIUM",US - EPIX 2 | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71858
-#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="US - EPIX HITS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/EPIXHITS.png" group-title="AM | USA | PREMIUM",US - EPIX HITS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71863
-#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="US - RETRO PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/RETROPLEX.png" group-title="AM | USA | PREMIUM",US - RETRO PLEX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71886
-#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="US - MOVIE PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/MOVIEPLEX.png" group-title="AM | USA | PREMIUM",US - MOVIE PLEX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71884
-#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="US - INDIE PLEX | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/INDIEPLEX.png" group-title="AM | USA | PREMIUM",US - INDIE PLEX | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71885
-#EXTINF:-1 tvg-id="CineSony.us" tvg-name="US - CINE SONY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SONYMOVIESHD.png" group-title="AM | USA | PREMIUM",US - CINE SONY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71861
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="US - TURNER CLASSIC MOVIES" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/TURNERCLASSICMOVIES.png" group-title="AM | USA | PREMIUM",US - TURNER CLASSIC MOVIES
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71869
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.us" tvg-name="US - SONY MOVIES | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SONYMOVIESHD.png" group-title="AM | USA | PREMIUM",US - SONY MOVIES | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71871
-#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="US - HDnet Movies | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HDnetMovies.png" group-title="AM | USA | PREMIUM",US - HDnet Movies | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71883
-#EXTINF:-1 tvg-id="" tvg-name="##### US - NEWS #####" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/USA.png" group-title="AM | USA | LOCALS & NEWS",##### US - NEWS #####
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/34835
-#EXTINF:-1 tvg-id="" tvg-name="US - THE WEATHER CHANNEL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/THEWEATHERCHANNEL.png" group-title="AM | USA | LOCALS & NEWS",US - THE WEATHER CHANNEL | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71504
-#EXTINF:-1 tvg-id="accuweather.us" tvg-name="US - ACCU WEATHER | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ACCUWEATHER.png" group-title="AM | USA | LOCALS & NEWS",US - ACCU WEATHER | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71503
-#EXTINF:-1 tvg-id="" tvg-name="US - WEATHER NATION | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/WEATHERNATION.png" group-title="AM | USA | LOCALS & NEWS",US - WEATHER NATION | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71489
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="US - HLN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/HLN.png" group-title="AM | USA | LOCALS & NEWS",US - HLN | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71367
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/72329
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | UHD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71493
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN | UHD+" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN | UHD+
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/76564
-#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="US - CNN INTERNATIONAL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNN.png" group-title="AM | USA | LOCALS & NEWS",US - CNN INTERNATIONAL | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71486
-#EXTINF:-1 tvg-id="" tvg-name="US - CBS NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CBS.png" group-title="AM | USA | LOCALS & NEWS",US - CBS NEWS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71500
-#EXTINF:-1 tvg-id="" tvg-name="US - ABC NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ABC.png" group-title="AM | USA | LOCALS & NEWS",US - ABC NEWS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71675
-#EXTINF:-1 tvg-id="abc.eastern.us" tvg-name="US - ABC NEWS LIVE EAST | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ABC.png" group-title="AM | USA | LOCALS & NEWS",US - ABC NEWS LIVE EAST | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71496
-#EXTINF:-1 tvg-id="" tvg-name="US - FOX NEWS CHANNEL | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FOX.png" group-title="AM | USA | LOCALS & NEWS",US - FOX NEWS CHANNEL | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71487
-#EXTINF:-1 tvg-id="" tvg-name="US - NEWSY | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/NEWSY.png" group-title="AM | USA | LOCALS & NEWS",US - NEWSY | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71488
-#EXTINF:-1 tvg-id="FreeSpeech.us" tvg-name="US - FREE SPEECH TV | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FREESPEECHTV.png" group-title="AM | USA | LOCALS & NEWS",US - FREE SPEECH TV | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71386
-#EXTINF:-1 tvg-id="cheddaru.us" tvg-name="US - CHEDDAR NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CHEDDAR.png" group-title="AM | USA | LOCALS & NEWS",US - CHEDDAR NEWS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71490
-#EXTINF:-1 tvg-id="" tvg-name="US - NE CABLE NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/NECN.png" group-title="AM | USA | LOCALS & NEWS",US - NE CABLE NEWS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71501
-#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="US - ONE AMERICA NEWS NETWORK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/ONE-AMERICA-NEWS-NETWORK.png" group-title="AM | USA | LOCALS & NEWS",US - ONE AMERICA NEWS NETWORK | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71483
-#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US - BBC AMERICA | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/BBC.png" group-title="AM | USA | LOCALS & NEWS",US - BBC AMERICA | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71509
-#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="US - BBC WORLD NEWS | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BBC-World-News.png" group-title="AM | USA | LOCALS & NEWS",US - BBC WORLD NEWS | UHD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71484
-#EXTINF:-1 tvg-id="" tvg-name="US - RT NEWS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/RTNEWS.png" group-title="AM | USA | LOCALS & NEWS",US - RT NEWS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71502
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US - CNBC | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/CNBC-2.png" group-title="AM | USA | LOCALS & NEWS",US - CNBC | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71485
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US - MSNBC | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/MSNBC.png" group-title="AM | USA | LOCALS & NEWS",US - MSNBC | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71491
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US - CNBC WORLD | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CNBCWORLD.png" group-title="AM | USA | LOCALS & NEWS",US - CNBC WORLD | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71492
-#EXTINF:-1 tvg-id="" tvg-name="US - FOX BUSINESS NETWORK | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/FOX.png" group-title="AM | USA | LOCALS & NEWS",US - FOX BUSINESS NETWORK | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71494
-#EXTINF:-1 tvg-id="" tvg-name="US - BLOOMBERG POLITICS LIVE EVENT | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/bloomberg-television.png" group-title="AM | USA | LOCALS & NEWS",US - BLOOMBERG POLITICS LIVE EVENT | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71497
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US - BLOOMBERG | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/bloomberg-television.png" group-title="AM | USA | LOCALS & NEWS",US - BLOOMBERG | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71498
-#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US - CHEDDAR BUSINESS | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CHEDDAR.png" group-title="AM | USA | LOCALS & NEWS",US - CHEDDAR BUSINESS | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71499
-#EXTINF:-1 tvg-id="c.span.us" tvg-name="US - C-SPAN | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71506
-#EXTINF:-1 tvg-id="" tvg-name="US - C-SPAN 2 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN 2 | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71507
-#EXTINF:-1 tvg-id="c.span.3.us" tvg-name="US - C-SPAN 3 | HD" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/CSPAN.png" group-title="AM | USA | LOCALS & NEWS",US - C-SPAN 3 | HD
-http://tektv.co:80/osZZzpelyvmvqyi/h2ExKrrn1b/71508
+#EXTINF:-1,Bein Max 1 HD
+http://dvbos.com:2082/236802056075/151348678479/158500
+#EXTINF:-1,Bein Max 2 HD
+http://dvbos.com:2082/236802056075/151348678479/158501
+#EXTINF:-1,Bein Max 3 HD
+http://dvbos.com:2082/236802056075/151348678479/158502
+#EXTINF:-1,Bein Max 4 HD
+http://dvbos.com:2082/236802056075/151348678479/158503
+#EXTINF:-1,Bein Max 5 HD
+http://dvbos.com:2082/236802056075/151348678479/158504
+#EXTINF:-1,Bein Max 6 HD
+http://dvbos.com:2082/236802056075/151348678479/158505
+#EXTINF:-1,BeIn Sports Max1
+http://dvbos.com:2082/236802056075/151348678479/158541
+#EXTINF:-1,BeIn Sports Max2
+http://dvbos.com:2082/236802056075/151348678479/158540
+#EXTINF:-1,BeIn Sports Max3
+http://dvbos.com:2082/236802056075/151348678479/158539
+#EXTINF:-1,BeIn Sports Max4
+http://dvbos.com:2082/236802056075/151348678479/158538
+#EXTINF:-1,BeIn Sports AFC 1
+http://dvbos.com:2082/236802056075/151348678479/141862
+#EXTINF:-1,BeIn Sports AFC 2
+http://dvbos.com:2082/236802056075/151348678479/141861
+#EXTINF:-1,BeIn Sports AFC 3
+http://dvbos.com:2082/236802056075/151348678479/141860
+#EXTINF:-1,BeIn Sports News
+http://dvbos.com:2082/236802056075/151348678479/135528
+#EXTINF:-1,BeIn Sports Global
+http://dvbos.com:2082/236802056075/151348678479/135527
+#EXTINF:-1,BeIn Sports 1 XTRA
+http://dvbos.com:2082/236802056075/151348678479/133176
+#EXTINF:-1,BeIn Sports 2 XTRA
+http://dvbos.com:2082/236802056075/151348678479/133175
+#EXTINF:-1,BeIn Sports 1 Premium
+http://dvbos.com:2082/236802056075/151348678479/28086
+#EXTINF:-1,BeIn Sports 2 Premium
+http://dvbos.com:2082/236802056075/151348678479/28085
+#EXTINF:-1,BeIn Sports 3 Premium
+http://dvbos.com:2082/236802056075/151348678479/28084
+#EXTINF:-1,BEIN SPORT 1
+http://dvbos.com:2082/236802056075/151348678479/136175
+#EXTINF:-1,BEIN SPORT  2
+http://dvbos.com:2082/236802056075/151348678479/136174
+#EXTINF:-1,BeIn Sports 3
+http://dvbos.com:2082/236802056075/151348678479/28091
+#EXTINF:-1,BeIn Sports 4
+http://dvbos.com:2082/236802056075/151348678479/28090
+#EXTINF:-1,BeIn Sports 5
+http://dvbos.com:2082/236802056075/151348678479/28089
+#EXTINF:-1,BeIn Sports 6
+http://dvbos.com:2082/236802056075/151348678479/28088
+#EXTINF:-1,BeIn Sports 7
+http://dvbos.com:2082/236802056075/151348678479/28087
+#EXTINF:-1,BEIN SPORT 1 French
+http://dvbos.com:2082/236802056075/151348678479/111916
+#EXTINF:-1,BEIN SPORT 2 French
+http://dvbos.com:2082/236802056075/151348678479/111917
+#EXTINF:-1,BEIN SPORT 3 French
+http://dvbos.com:2082/236802056075/151348678479/111918
+#EXTINF:-1,STARZPLAY SPORT 1
+http://dvbos.com:2082/236802056075/151348678479/154737
+#EXTINF:-1,STARZPLAY SPORT 2
+http://dvbos.com:2082/236802056075/151348678479/154736
+#EXTINF:-1,STARZPLAY SPORT 3
+http://dvbos.com:2082/236802056075/151348678479/154735
+#EXTINF:-1,OSN YAHALA BIL ARABI
+http://dvbos.com:2082/236802056075/151348678479/88478
+#EXTINF:-1,OSN YAHALA
+http://dvbos.com:2082/236802056075/151348678479/88479
+#EXTINF:-1,OSN YAHALA AFLAM
+http://dvbos.com:2082/236802056075/151348678479/88480
+#EXTINF:-1,OSN Series PRIME
+http://dvbos.com:2082/236802056075/151348678479/88493
+#EXTINF:-1,OSN W HD
+http://dvbos.com:2082/236802056075/151348678479/88494
+#EXTINF:-1,OSN NEWS
+http://dvbos.com:2082/236802056075/151348678479/88497
+#EXTINF:-1,Alfa Cinema 1
+http://dvbos.com:2082/236802056075/151348678479/88483
+#EXTINF:-1,Alfa Cinema 2
+http://dvbos.com:2082/236802056075/151348678479/88484
+#EXTINF:-1,Alfa Al Safwa
+http://dvbos.com:2082/236802056075/151348678479/88487
+#EXTINF:-1,Alfa Al Yawm
+http://dvbos.com:2082/236802056075/151348678479/88485
+#EXTINF:-1,Alfa Muslslat
+http://dvbos.com:2082/236802056075/151348678479/88481
+#EXTINF:-1,Alfa Muslslat 2
+http://dvbos.com:2082/236802056075/151348678479/88482
+#EXTINF:-1,Alfa FANN
+http://dvbos.com:2082/236802056075/151348678479/88486
+#EXTINF:-1,Alfa Music Now
+http://dvbos.com:2082/236802056075/151348678479/88488
+#EXTINF:-1,ART Aflam 1
+http://dvbos.com:2082/236802056075/151348678479/1442
+#EXTINF:-1,ART Aflam 2
+http://dvbos.com:2082/236802056075/151348678479/1443
+#EXTINF:-1,ART Cinema
+http://dvbos.com:2082/236802056075/151348678479/1444
+#EXTINF:-1,ART Hekayat 1
+http://dvbos.com:2082/236802056075/151348678479/1445
+#EXTINF:-1,ART Hekayat 2
+http://dvbos.com:2082/236802056075/151348678479/1446
+#EXTINF:-1,OSN Movies Premiere HD
+http://dvbos.com:2082/236802056075/151348678479/88491
+#EXTINF:-1,OSN Movies Premiere +2 HD
+http://dvbos.com:2082/236802056075/151348678479/88492
+#EXTINF:-1,OSN Movies Action HD
+http://dvbos.com:2082/236802056075/151348678479/88490
+#EXTINF:-1,OSN Movies HOLLYWOOD HD
+http://dvbos.com:2082/236802056075/151348678479/88489
+#EXTINF:-1,OSN SHOWCASE HD
+http://dvbos.com:2082/236802056075/151348678479/88509
+#EXTINF:-1,OSN Movies Disney
+http://dvbos.com:2082/236802056075/151348678479/88523
+#EXTINF:-1,Baby TV
+http://dvbos.com:2082/236802056075/151348678479/88522
+#EXTINF:-1,Disney HD
+http://dvbos.com:2082/236802056075/151348678479/88515
+#EXTINF:-1,NICK TOONS
+http://dvbos.com:2082/236802056075/151348678479/88517
+#EXTINF:-1,Nick JR
+http://dvbos.com:2082/236802056075/151348678479/88518
+#EXTINF:-1,Disney Junior HD
+http://dvbos.com:2082/236802056075/151348678479/88519
+#EXTINF:-1,Nickelodeon HD
+http://dvbos.com:2082/236802056075/151348678479/88520
+#EXTINF:-1,Kids Zone TV
+http://dvbos.com:2082/236802056075/151348678479/88521
+#EXTINF:-1,OSN Movies Kids
+http://dvbos.com:2082/236802056075/151348678479/88516
+#EXTINF:-1,TLC HD
+http://dvbos.com:2082/236802056075/151348678479/88503
+#EXTINF:-1,VH1
+http://dvbos.com:2082/236802056075/151348678479/88496
+#EXTINF:-1,OSN FAMILY HD
+http://dvbos.com:2082/236802056075/151348678479/88499
+#EXTINF:-1,H2 HD
+http://dvbos.com:2082/236802056075/151348678479/88502
+#EXTINF:-1,History Channel HD
+http://dvbos.com:2082/236802056075/151348678479/88501
+#EXTINF:-1,OSN Mezze
+http://dvbos.com:2082/236802056075/151348678479/88504
+#EXTINF:-1,Discovery HD
+http://dvbos.com:2082/236802056075/151348678479/88505
+#EXTINF:-1,Discovery IDX
+http://dvbos.com:2082/236802056075/151348678479/88506
+#EXTINF:-1,Discovery Science
+http://dvbos.com:2082/236802056075/151348678479/88507
+#EXTINF:-1,Nat Geo HD
+http://dvbos.com:2082/236802056075/151348678479/88514
+#EXTINF:-1,Nat Geo Wild HD
+http://dvbos.com:2082/236802056075/151348678479/88513
+#EXTINF:-1,E! HD
+http://dvbos.com:2082/236802056075/151348678479/88508
+#EXTINF:-1,Living HD
+http://dvbos.com:2082/236802056075/151348678479/88510
+#EXTINF:-1,MTV Live HD
+http://dvbos.com:2082/236802056075/151348678479/88511
+#EXTINF:-1,Star World HD
+http://dvbos.com:2082/236802056075/151348678479/88524
+#EXTINF:-1,Star Movies HD
+http://dvbos.com:2082/236802056075/151348678479/88498
+#EXTINF:-1,WWE NETWORK
+http://dvbos.com:2082/236802056075/151348678479/90256
+#EXTINF:-1,OSN Comedy
+http://dvbos.com:2082/236802056075/151348678479/88500
+#EXTINF:-1,OSN Crime and Investigation
+http://dvbos.com:2082/236802056075/151348678479/88574
+#EXTINF:-1,Fashion
+http://dvbos.com:2082/236802056075/151348678479/88575
+#EXTINF:-1,OSN SKY NEWS
+http://dvbos.com:2082/236802056075/151348678479/88576
+#EXTINF:-1,FOX NEWS
+http://dvbos.com:2082/236802056075/151348678479/88577
+#EXTINF:-1,MBC 1 HD
+http://dvbos.com:2082/236802056075/151348678479/1482
+#EXTINF:-1,MBC 2 HD
+http://dvbos.com:2082/236802056075/151348678479/1483
+#EXTINF:-1,MBC 3 HD
+http://dvbos.com:2082/236802056075/151348678479/1484
+#EXTINF:-1,MBC 4 HD
+http://dvbos.com:2082/236802056075/151348678479/2455
+#EXTINF:-1,MBC 5 HD
+http://dvbos.com:2082/236802056075/151348678479/135507
+#EXTINF:-1,MBC IRAQ HD
+http://dvbos.com:2082/236802056075/151348678479/32149
+#EXTINF:-1,MBC ACTION HD
+http://dvbos.com:2082/236802056075/151348678479/2601
+#EXTINF:-1,MBC BOLLYWOOD
+http://dvbos.com:2082/236802056075/151348678479/43930
+#EXTINF:-1,MBC DRAMA HD
+http://dvbos.com:2082/236802056075/151348678479/1447
+#EXTINF:-1,MBC MASR 1 HD
+http://dvbos.com:2082/236802056075/151348678479/135508
+#EXTINF:-1,MBC MASR 2 HD
+http://dvbos.com:2082/236802056075/151348678479/135509
+#EXTINF:-1,MBC MAX HD
+http://dvbos.com:2082/236802056075/151348678479/2600
+#EXTINF:-1,MBC+ DRAMA HD
+http://dvbos.com:2082/236802056075/151348678479/2794
+#EXTINF:-1,MBC+ VARITEY
+http://dvbos.com:2082/236802056075/151348678479/11060
+#EXTINF:-1,BeIn Movies Premiere
+http://dvbos.com:2082/236802056075/151348678479/92987
+#EXTINF:-1,BeIn Movies Action
+http://dvbos.com:2082/236802056075/151348678479/92988
+#EXTINF:-1,BeIn Movies Drama
+http://dvbos.com:2082/236802056075/151348678479/92989
+#EXTINF:-1,BeIn Movies Family
+http://dvbos.com:2082/236802056075/151348678479/92990
+#EXTINF:-1,BeIn Series HD 1
+http://dvbos.com:2082/236802056075/151348678479/92991
+#EXTINF:-1,BeIn Series HD 2
+http://dvbos.com:2082/236802056075/151348678479/92992
+#EXTINF:-1,BeIn drama 1
+http://dvbos.com:2082/236802056075/151348678479/92993
+#EXTINF:-1,HGTV
+http://dvbos.com:2082/236802056075/151348678479/93000
+#EXTINF:-1,AMC
+http://dvbos.com:2082/236802056075/151348678479/93016
+#EXTINF:-1,BBC 1
+http://dvbos.com:2082/236802056075/151348678479/12841
+#EXTINF:-1,BBC 2
+http://dvbos.com:2082/236802056075/151348678479/12840
+#EXTINF:-1,BBC 3
+http://dvbos.com:2082/236802056075/151348678479/12839
+#EXTINF:-1,BBC 4
+http://dvbos.com:2082/236802056075/151348678479/12838
+#EXTINF:-1,BBC ENTERTAINMENT
+http://dvbos.com:2082/236802056075/151348678479/106465
+#EXTINF:-1,CHANNEL 4
+http://dvbos.com:2082/236802056075/151348678479/12829
+#EXTINF:-1,ITV1
+http://dvbos.com:2082/236802056075/151348678479/12807
+#EXTINF:-1,ITV2
+http://dvbos.com:2082/236802056075/151348678479/12806
+#EXTINF:-1,ITV3
+http://dvbos.com:2082/236802056075/151348678479/12805
+#EXTINF:-1,ITV4
+http://dvbos.com:2082/236802056075/151348678479/12804
+#EXTINF:-1,Itv Encore
+http://dvbos.com:2082/236802056075/151348678479/41185
+#EXTINF:-1,MAR.ARRYADIA TNT
+http://dvbos.com:2082/236802056075/151348678479/32559
+#EXTINF:-1,IL.KAN 11
+http://dvbos.com:2082/236802056075/151348678479/117071
+#EXTINF:-1,IL.MAKAN HD
+http://dvbos.com:2082/236802056075/151348678479/117050
+#EXTINF:-1,FR.TF1 FHD
+http://dvbos.com:2082/236802056075/151348678479/9950
+#EXTINF:-1,IT.Rai 1 FHD
+http://dvbos.com:2082/236802056075/151348678479/156575
+#EXTINF:-1,IT.Rai 2 FHD
+http://dvbos.com:2082/236802056075/151348678479/156577
+#EXTINF:-1,DK.DR 1
+http://dvbos.com:2082/236802056075/151348678479/10903
+#EXTINF:-1,DK.DR 2
+http://dvbos.com:2082/236802056075/151348678479/10901
+#EXTINF:-1,DK.TV2
+http://dvbos.com:2082/236802056075/151348678479/10893
+#EXTINF:-1,DE.Das Erste
+http://dvbos.com:2082/236802056075/151348678479/41090
+#EXTINF:-1,DE.SRF 1 FHD
+http://dvbos.com:2082/236802056075/151348678479/57793
+#EXTINF:-1,DE.SRF 2 FHD
+http://dvbos.com:2082/236802056075/151348678479/57794
+#EXTINF:-1,DE.SRF Info FHD
+http://dvbos.com:2082/236802056075/151348678479/57795
+#EXTINF:-1,DE.SRF Zwei HD
+http://dvbos.com:2082/236802056075/151348678479/57796
+#EXTINF:-1,DE.ZDF
+http://dvbos.com:2082/236802056075/151348678479/41009
+#EXTINF:-1,PL.TVP 1
+http://dvbos.com:2082/236802056075/151348678479/41647
+#EXTINF:-1,PL.TVP 2
+http://dvbos.com:2082/236802056075/151348678479/41646
+#EXTINF:-1,PL.TVP 3
+http://dvbos.com:2082/236802056075/151348678479/41645
+#EXTINF:-1,PT.RTP 1 FHD
+http://dvbos.com:2082/236802056075/151348678479/139433
+#EXTINF:-1,PT.SIC FHD
+http://dvbos.com:2082/236802056075/151348678479/139437
+#EXTINF:-1,TR.TRT 1 HD
+http://dvbos.com:2082/236802056075/151348678479/31942
+#EXTINF:-1,TR.TRT 1 4K
+http://dvbos.com:2082/236802056075/151348678479/40910
+#EXTINF:-1,SW.SVT 1 HD
+http://dvbos.com:2082/236802056075/151348678479/65948
+#EXTINF:-1,SW.SVT 2 HD
+http://dvbos.com:2082/236802056075/151348678479/65949
+#EXTINF:-1,SW.TV4 HD
+http://dvbos.com:2082/236802056075/151348678479/65951
+#EXTINF:-1,BG.BNT 1
+http://dvbos.com:2082/236802056075/151348678479/11585
+#EXTINF:-1,BG.BNT 2
+http://dvbos.com:2082/236802056075/151348678479/11584
+#EXTINF:-1,BG.BNT 3
+http://dvbos.com:2082/236802056075/151348678479/11579
+#EXTINF:-1,COR.HRT 1
+http://dvbos.com:2082/236802056075/151348678479/137231
+#EXTINF:-1,COR.HRT 2 HD
+http://dvbos.com:2082/236802056075/151348678479/137232
+#EXTINF:-1,COR.HRT 3 HD
+http://dvbos.com:2082/236802056075/151348678479/137233
+#EXTINF:-1,COR.HRT 4
+http://dvbos.com:2082/236802056075/151348678479/137234
