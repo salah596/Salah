@@ -1,90 +1,120 @@
-#EXTM3U
-#EXTINF:-1,---------------------------TV CHANNELS------------------------------------------------------------------------
-http://dmiffthvll.ytc.com
-#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaizaman171.png",Dubai zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png",Aloula tv
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png",aayoune tv
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/946391558051463168/1U6F7yRq_400x400.jpg",arriadia tv3
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/New_Al-Manar_logo.PNG/200px-New_Al-Manar_logo.PNG",Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",DW Arabic (Germany)
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 group-title="Stable",BBC arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 group-title="Stable",TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 group-title="Stable",Lebanon: Future tv
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1 group-title="Stable",Dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Stable",Sama dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Stable",Dubai tv
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Stable",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 group-title="Stable",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 group-title="Stable",Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1 group-title="Stable",National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="Stable",Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title="Stable",Aljazeera doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="Stable",Spacetoon sd
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w1099963263_b596000_slAR.m3u8
-#EXTINF:-1 group-title="Stable",France 24 ar
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Stable",ABC
-https://toru.la/api/1/sling/m3u/cgzna9uh/001?token=LpdbS7ADHJhgG
-#EXTINF:-1 group-title="Stable",pluto
-https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1 group-title="Stable",Al rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Makan 33
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Jordan tv
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Stable",Alrai tv
-https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV arabe
-https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV ethraa
-https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",KTV Sport
-https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Kuwait Kids
-https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Otv
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV
-http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Cultural
-http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Mubashir
-http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Oman TV Sport
-http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-#EXTINF:-1 group-title="Stable",Aljazeera Channel
-https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index255.m3u8
-#EXTINF:-1 group-title="Stable",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Stable",Roya tv
-https://roya-live.ercdn.net/roya/roya_720p.m3u8
-#EXTINF:-1 group-title="Stable",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,SPORT HD1 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/22961
+#EXTINF:-1,SPORT HD2 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/22960
+#EXTINF:-1,SPORT HD3 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/22968
+#EXTINF:-1,SPORT HD1
+http://dvbos.com:2082/236802056075/151348678479/136182
+#EXTINF:-1,SPORT HD2
+http://dvbos.com:2082/236802056075/151348678479/136183
+#EXTINF:-1,SPORT HD3
+http://dvbos.com:2082/236802056075/151348678479/22966
+#EXTINF:-1,SPORT HD4
+http://dvbos.com:2082/236802056075/151348678479/22965
+#EXTINF:-1,SPORT HD5
+http://dvbos.com:2082/236802056075/151348678479/22964
+#EXTINF:-1,SPORT HD6
+http://dvbos.com:2082/236802056075/151348678479/22963
+#EXTINF:-1,SPORT HD7
+http://dvbos.com:2082/236802056075/151348678479/22962
+#EXTINF:-1,STARZPLAY SPORT 1
+http://dvbos.com:2082/236802056075/151348678479/154737
+#EXTINF:-1,STARZPLAY SPORT 2
+http://dvbos.com:2082/236802056075/151348678479/154736
+#EXTINF:-1,STARZPLAY SPORT 3
+http://dvbos.com:2082/236802056075/151348678479/154735
+#EXTINF:-1,SPORTS 1 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/28086
+#EXTINF:-1,SPORTS 2 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/28085
+#EXTINF:-1,SPORTS 3 PREMIUM
+http://dvbos.com:2082/236802056075/151348678479/28084
+#EXTINF:-1,SPORT 1
+http://dvbos.com:2082/236802056075/151348678479/136175
+#EXTINF:-1,SPORT  2
+http://dvbos.com:2082/236802056075/151348678479/136174
+#EXTINF:-1,SPORTS 3
+http://dvbos.com:2082/236802056075/151348678479/28091
+#EXTINF:-1,SPORTS 4
+http://dvbos.com:2082/236802056075/151348678479/28090
+#EXTINF:-1,SPORTS 5
+http://dvbos.com:2082/236802056075/151348678479/28089
+#EXTINF:-1,SPORTS 6
+http://dvbos.com:2082/236802056075/151348678479/28088
+#EXTINF:-1,SPORTS 7
+http://dvbos.com:2082/236802056075/151348678479/28087
+#EXTINF:-1,AD Sports PREMIEUM 1 SERIE A
+http://dvbos.com:2082/236802056075/151348678479/154940
+#EXTINF:-1,AD Sports PREMIEUM 2 SERIE A
+http://dvbos.com:2082/236802056075/151348678479/154939
+#EXTINF:-1,UK.BT Sport 1
+http://dvbos.com:2082/236802056075/151348678479/32197
+#EXTINF:-1,UK.BT Sport 2
+http://dvbos.com:2082/236802056075/151348678479/32198
+#EXTINF:-1,UK.BT Sport 3
+http://dvbos.com:2082/236802056075/151348678479/32199
+#EXTINF:-1,BE.ELEVEN SPORTS 1
+http://dvbos.com:2082/236802056075/151348678479/41161
+#EXTINF:-1,BE.ELEVEN SPORTS 2
+http://dvbos.com:2082/236802056075/151348678479/41160
+#EXTINF:-1,PT.ELEVEN SPORTS 1 FHD
+http://dvbos.com:2082/236802056075/151348678479/139489
+#EXTINF:-1,PT.ELEVEN SPORTS 2 FHD
+http://dvbos.com:2082/236802056075/151348678479/139491
+#EXTINF:-1,PT.ELEVEN SPORTS 3 FHD
+http://dvbos.com:2082/236802056075/151348678479/139493
+#EXTINF:-1,PT.ELEVEN SPORTS 4 FHD
+http://dvbos.com:2082/236802056075/151348678479/139495
+#EXTINF:-1,PT.ELEVEN SPORTS 5 FHD
+http://dvbos.com:2082/236802056075/151348678479/139497
+#EXTINF:-1,PT.ELEVEN SPORTS 6 FHD
+http://dvbos.com:2082/236802056075/151348678479/139499
+#EXTINF:-1,ES.DAZN FHD
+http://dvbos.com:2082/236802056075/151348678479/139416
+#EXTINF:-1,ES.LALIGA HD
+http://dvbos.com:2082/236802056075/151348678479/139420
+#EXTINF:-1,ES.LALIGA 2 HD
+http://dvbos.com:2082/236802056075/151348678479/139421
+#EXTINF:-1,ES.LIGA DE CAMPEONES 1 HD
+http://dvbos.com:2082/236802056075/151348678479/139428
+#EXTINF:-1,ES.LIGA TV HD
+http://dvbos.com:2082/236802056075/151348678479/139429
+#EXTINF:-1,NL.Ziggo Sport Select HD
+http://dvbos.com:2082/236802056075/151348678479/139694
+#EXTINF:-1,NL.Ziggo Sport Voetbal HD
+http://dvbos.com:2082/236802056075/151348678479/139695
+#EXTINF:-1,SW.Viasat sport premium
+http://dvbos.com:2082/236802056075/151348678479/66016
+#EXTINF:-1,SW.Viasat Sport Premium HD
+http://dvbos.com:2082/236802056075/151348678479/66017
+#EXTINF:-1,US.TSN SPORT 1 HD
+http://dvbos.com:2082/236802056075/151348678479/41379
+#EXTINF:-1,US.TSN SPORT 2 HD
+http://dvbos.com:2082/236802056075/151348678479/41378
+#EXTINF:-1,US.TSN SPORT 3 HD
+http://dvbos.com:2082/236802056075/151348678479/41377
+#EXTINF:-1,US.TSN SPORT 4 HD
+http://dvbos.com:2082/236802056075/151348678479/41376
+#EXTINF:-1,US.TSN SPORT 5 HD
+http://dvbos.com:2082/236802056075/151348678479/41375
+#EXTINF:-1,BE.ELEVEN SPORTS 3
+http://dvbos.com:2082/236802056075/151348678479/41159
+#EXTINF:-1,DK.TV2 Sport
+http://dvbos.com:2082/236802056075/151348678479/10891
+#EXTINF:-1,YUG.ARENA SPORT 1 HD
+http://dvbos.com:2082/236802056075/151348678479/66365
+#EXTINF:-1,YUG.Arena Sport 2 HD
+http://dvbos.com:2082/236802056075/151348678479/66366
+#EXTINF:-1,YUG.Arena Sport 3 HD
+http://dvbos.com:2082/236802056075/151348678479/66367
+#EXTINF:-1,YUG.Arena Sport 4 HD
+http://dvbos.com:2082/236802056075/151348678479/66368
+#EXTINF:-1,YUG.Arena Sport 5
+http://dvbos.com:2082/236802056075/151348678479/66369
+#EXTINF:-1,YUG.VIP:ARENA SPORT 1 HD
+http://dvbos.com:2082/236802056075/151348678479/66370
+#EXTINF:-1,COR.Sport Klub 3
+http://dvbos.com:2082/236802056075/151348678479/137282
+#EXTINF:-1,YUG.VIP:ARENA SPORT 2 HD
+http://dvbos.com:2082/236802056075/151348678479/66371
